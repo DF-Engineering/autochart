@@ -1,4 +1,4 @@
-# dave-deploy
+# AutoChart
 Deploy tool for rendering HELM charts templates based on an input values file. Charts are packages of pre-configured Kubernetes resources.
 
 Use dave-deploy to:
@@ -7,7 +7,7 @@ Use dave-deploy to:
   - Intelligently render and manage your Kubernetes manifest files
   - Manage multiple HELM release packages with changes only to values file
   
-## dave-deploy in a Nutshell
+## AutoChart in a Nutshell
 
 dave-deploy is a tool that streamlines manifestation of HELM charts, to install and manage Kubernetes applications. 
 
